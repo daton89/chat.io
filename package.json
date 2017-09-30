@@ -1,0 +1,27 @@
+{
+  "name": "chat.io",
+  "version": "1.0.0",
+  "description": "Simple system for real time messages exchange Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daton89/chat.io.git"
+  },
+  "keywords": [
+    "socket.io",
+    "express.js",
+    "angular.io"
+  ],
+  "author": "@daton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/daton89/chat.io/issues"
+  },
+  "homepage": "https://github.com/daton89/chat.io#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
